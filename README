@@ -1,5 +1,7 @@
 terco - terminal colors
 -----------------------
 
-a small and potentially growing collection of terminal colors,
+A small and potentially growing collection of terminal colors,
 saved for future reference or use.
+
+The colorschemes are formatted for Xresources.
