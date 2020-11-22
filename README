@@ -1,7 +1,10 @@
 terco - terminal colors
 -----------------------
 
-A small and potentially growing collection of terminal colors,
-saved for future reference or use.
+A small and potentially growing collection of terminal colors, saved for future
+reference or use. The colorschemes are formatted for Xresources.
 
-The colorschemes are formatted for Xresources.
+If you want to try these out in an easy manner, I suggest you try [pap], which
+features all of these colorschemes.
+
+[pap] https://github.com/fehawen/pap
