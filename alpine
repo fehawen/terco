@@ -1,7 +1,7 @@
 *foreground: #ffffff
 *background: #131b26
 
-*cursor: #ff4848
+*cursorColor: #ff4848
 
 *color0: #131b26
 *color8: #3c4b5d
