@@ -4,7 +4,25 @@ terco - terminal colors
 A small and potentially growing collection of terminal colors, saved for future
 reference or use. The colorschemes are formatted for Xresources.
 
-If you want to try these out in an easy manner, I suggest you try [pap], which
-features all of these colorschemes.
 
-[pap] https://github.com/fehawen/pap
+usage
+-----
+
+Clone the repo to e.g. `~/terco`
+
+Include the desired colorscheme in your `~/.Xresources`
+
+Example:
+
+    $ #include "terco/matte"
+
+
+contributing
+------------
+
+Pull requests to extend the collection are always welcome. I will not lay forth
+any personal opinion concerning particular colors in a colorscheme. This means
+that any PR will immediately be included in the collection, provided that it
+adheres to the structure of existing colorschemes.
+
+In other words - PR away. I encourage you to.
