@@ -10,11 +10,13 @@ usage
 
 Clone the repo to e.g. `~/terco`
 
-Include the desired colorscheme in your `~/.Xresources`
+Include the desired colorscheme in your `~/.Xresources`:
 
-Example:
+    #include "terco/matte"
 
-    $ #include "terco/matte"
+Then run:
+
+    $ xrdb -merge ~/.Xresources
 
 
 contributing
