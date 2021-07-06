@@ -16,7 +16,7 @@ Include the desired colorscheme in your `~/.Xresources`:
 
 Then run:
 
-    $ xrdb -merge ~/.Xresources
+    $ xrdb ~/.Xresources
 
 
 contributing
