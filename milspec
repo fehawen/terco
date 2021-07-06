@@ -3,26 +3,26 @@
 
 *cursorColor: #8cbeb8
 
-*color0: #022527
-*color8: #033f40
+*color0: #06292b
+*color8: #285455
 
-*color1: #fb1200
-*color9: #fb1200
+*color1: #e14a2b
+*color9: #e14a2b
 
-*color2: #195e5f
-*color10: #195e5f
+*color2: #5e8a84
+*color10: #5e8a84
 
-*color3: #145e5f
-*color11: #145e5f
+*color3: #4b8484
+*color11: #4b8484
 
-*color4: #285455
-*color12: #285455
+*color4: #437676
+*color12: #437676
 
-*color5: #257a7a
-*color13: #257a7a
+*color5: #417e7e
+*color13: #417e7e
 
-*color6: #5a918b
-*color14: #5a918b
+*color6: #569594
+*color14: #569594
 
 *color7: #8cbeb8
 *color15: #8cbeb8
