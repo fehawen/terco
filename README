@@ -1,8 +1,8 @@
 terco - terminal colors
 -----------------------
 
-A small and potentially growing collection of terminal colors, saved for future
-reference or use. The colorschemes are formatted for Xresources.
+A small and potentially growing collection of terminal colorschemes, saved for
+future reference or use. The colorschemes are formatted for Xresources.
 
 
 usage
@@ -12,7 +12,7 @@ Clone the repo to e.g. `~/terco`
 
 Include the desired colorscheme in your `~/.Xresources`:
 
-    #include "terco/matte"
+    #include "terco/colorschemes/waffles"
 
 Then run:
 
