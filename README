@@ -1,11 +1,11 @@
 terco - terminal colors
------------------------
+=======================
 
 A small and potentially growing collection of terminal colorschemes, saved for
 future reference or use. The colorschemes are formatted for Xresources.
 
 
-usage
+Usage
 -----
 
 Clone the repo to e.g. `~/terco`
@@ -18,8 +18,10 @@ Then run:
 
     $ xrdb ~/.Xresources
 
+Spawn a new terminal and you should see the effect.
 
-contributing
+
+Contributing
 ------------
 
 Pull requests to extend the collection are always welcome. I will not lay forth
